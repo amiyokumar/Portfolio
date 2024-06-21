@@ -19,7 +19,7 @@ function App() {
     <AniCursor />
     <Hero />
     <About />
-    <Projects />
+    {/* <Projects /> */}
     <Timeline />
     <Contact />
     </div>
